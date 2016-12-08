@@ -1,6 +1,6 @@
 Hellow Git Tools
 
-My name is LaiJiaWei
+My name is XXX
 
 No no no
 
